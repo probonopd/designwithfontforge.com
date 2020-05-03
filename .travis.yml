@@ -8,6 +8,7 @@ before_install:
 
 script:
   - cd ebook/
+  - rm *.epub *.mobi *.pdf || true # Clean up from previous runs
   - ./create_books.sh en-US fr-FR zh-CN
 
 after_success:
