@@ -5,12 +5,5 @@
 	"pdf": {
 		"fontFamily": "NewG8",
 		"fontSize": 13,
-		"pageNumbers": true,
-		"margin": {
-			"top": 28,
-			"botom": 28,
-			"left": 31,
-			"right": 31
-		}
 	}
 }
