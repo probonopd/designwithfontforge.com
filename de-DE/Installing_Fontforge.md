@@ -33,7 +33,7 @@ Prüfen Sie, ob das Hilfsskript `add-apt-repository` installiert ist:
 sudo apt-get install software-properties-common;
 ```
 
-Fügen Sie den FontForge-PPA hinzu (der auch den Authentifizierungsschlüssel hinzufügt):
+Fügen Sie das FontForge-PPA hinzu (der auch den Authentifizierungsschlüssel hinzufügt):
     
 ```sh
 sudo add-apt-repository ppa:fontforge/fontforge;
