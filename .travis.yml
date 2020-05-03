@@ -1,6 +1,6 @@
 os: linux
 language: node_js
-node_js: "6"
+node_js: "7.10.1"
 
 before_install:
   - npm install gitbook-cli svgexport -g
