@@ -13,11 +13,11 @@ FontForge ist in einfach zu installierenden Paketen für die Betriebssysteme Win
 
 ### Installation von FontForge unter Windows
 
-Für die offiziellen Windows-Builds ist eine [Installationsanleitung] (http://fontforge.github.io/en-US/downloads/windows/) verfügbar, die von Jeremy Tan erstellt wurde.
+Für die offiziellen Windows-Builds ist eine [Installationsanleitung](http://fontforge.github.io/en-US/downloads/windows/) verfügbar, die von Jeremy Tan erstellt wurde.
 
 ### Installation von FontForge unter Mac OS X
 
-Für die offiziellen Mac-Builds ist eine [Installationsanleitung] (http://fontforge.github.io/en-US/downloads/mac/) verfügbar, die von Dr. Ben Martin erstellt wurde. 
+Für die offiziellen Mac-Builds ist eine [Installationsanleitung](http://fontforge.github.io/en-US/downloads/mac/) verfügbar, die von Dr. Ben Martin erstellt wurde. 
 
 ### Installieren unter GNU/Linux
 
@@ -25,7 +25,7 @@ Die einfachste Methode, FontForge auf Ihren Linux-Rechner zu bekommen, ist die V
 
 ##### Debian oder Ubuntu
 
-Das FontForge-Paket, das standardmäßig in Ubuntu 14.04 enthalten ist, stammt aus dem Jahr 2012, so dass es vorzuziehen ist, das aktuellere Paket aus dem FontForge [Personal Package Archive (PPA)] (https://launchpad.net/~fontforge/+archive/ubuntu/fontforge) zu installieren.
+Das FontForge-Paket, das standardmäßig in Ubuntu 14.04 enthalten ist, stammt aus dem Jahr 2012, so dass es vorzuziehen ist, das aktuellere Paket aus dem FontForge [Personal Package Archive (PPA)](https://launchpad.net/~fontforge/+archive/ubuntu/fontforge) zu installieren.
 
 Prüfen Sie, ob das Hilfsskript `add-apt-repository` installiert ist:
     
