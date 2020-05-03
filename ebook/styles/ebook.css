@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'NewG8';
+  font-style: normal;
+  src: url(https://github.com/probonopd/font-newg8/releases/download/continuous/NewG8-Reg.otf) format('otf');
+}
+
+@font-face {
+  font-family: 'NewG8';
+  font-style: italic;
+  src: url(https://github.com/probonopd/font-newg8/releases/download/continuous/NewG8-Ita.otf) format('otf');
+}
+
+@font-face {
+  font-family: 'NewG8';
+  font-style: bold;
+  src: url(https://github.com/probonopd/font-newg8/releases/download/continuous/NewG8-Bol.otf) format('otf');
+}
+
+body {
+    font-family: NewG8;
+    margin: 2rem;
+    font-size: 2rem;
+}
