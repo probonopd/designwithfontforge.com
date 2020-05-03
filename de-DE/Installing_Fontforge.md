@@ -35,19 +35,19 @@ sudo apt-get install software-properties-common;
 
 Fügen Sie den FontForge-PPA hinzu (der auch den Authentifizierungsschlüssel hinzufügt):
     
-````sh
+```sh
 sudo add-apt-repository ppa:fontforge/fontforge;
 ```
 
 Aktualisieren Sie die Software-Liste, um Pakete aus dem PPA aufzunehmen:
     
-````sh
+```sh
 sudo apt-get update;
 ```
 
 FontForge installieren:
     
-````sh
+```sh
 sudo apt-get install fontforge;
 ```
 
