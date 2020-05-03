@@ -13,7 +13,8 @@ script:
 
 after_success:
   - wget -c https://github.com/probonopd/uploadtool/raw/master/upload.sh
-  - bash upload.sh ebook/*.epub ebook/*.mobi ebook/*.pdf
+  - OUTPUTS=$(find . -type f -name '*.epub' -or -name '*.mobi' -or -name '*.pdf')
+  - bash upload.sh $OUTPUTS
   
 branches:
   except:
